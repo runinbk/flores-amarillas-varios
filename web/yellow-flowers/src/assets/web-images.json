@@ -1,0 +1,6 @@
+{
+    "images-data": [
+        { "id_key": "flower-icon", "src": "https://cdn0.iconfinder.com/data/icons/nature-life-in-color/128/sunflower-color-512.png" },
+        { "id_key": "arrow", "src": "arrow.png" }
+    ]
+}

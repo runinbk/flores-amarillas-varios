@@ -1,0 +1,15 @@
+h2 {
+    font-size: 3.2em;
+    line-height: 1.1;
+}
+.your-flowers{
+    width: 90%;
+}
+
+@media (max-width: 768px) {
+    h2{
+        font-size: 1.2em;
+        line-height: 1.1;
+    }
+
+}
